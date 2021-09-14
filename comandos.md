@@ -8,3 +8,6 @@ yarn @types/express -D
 <!-- bibliotecca para gerar id único universal -->
 
 yarn uuidv4
+
+yarn add nodemailer
+yarn add @types/nodemailer -D
